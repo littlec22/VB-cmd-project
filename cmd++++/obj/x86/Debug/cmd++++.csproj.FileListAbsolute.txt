@@ -1,0 +1,16 @@
+C:\Users\Villar\AppData\Local\Temporary Projects\cmd++++\bin\Debug\cmd++++.exe
+C:\Users\Villar\AppData\Local\Temporary Projects\cmd++++\bin\Debug\cmd++++.pdb
+C:\Users\Villar\AppData\Local\Temporary Projects\cmd++++\obj\x86\Debug\cmd____.Form1.resources
+C:\Users\Villar\AppData\Local\Temporary Projects\cmd++++\obj\x86\Debug\cmd____.Properties.Resources.resources
+C:\Users\Villar\AppData\Local\Temporary Projects\cmd++++\obj\x86\Debug\cmd++++.csproj.GenerateResource.Cache
+C:\Users\Villar\AppData\Local\Temporary Projects\cmd++++\obj\x86\Debug\cmd++++.exe
+C:\Users\Villar\AppData\Local\Temporary Projects\cmd++++\obj\x86\Debug\cmd++++.pdb
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\bin\Debug\cmd++++.exe
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\bin\Debug\cmd++++.pdb
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\obj\x86\Debug\cmd____.Form1.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\obj\x86\Debug\cmd____.Form2.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\obj\x86\Debug\cmd____.Properties.Resources.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\obj\x86\Debug\cmd++++.csproj.GenerateResource.Cache
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\obj\x86\Debug\cmd++++.exe
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\obj\x86\Debug\cmd++++.pdb
+C:\Users\Villar\documents\visual studio 2010\Projects\cmd++++\cmd++++\obj\x86\Debug\cmd++++.csprojResolveAssemblyReference.cache
