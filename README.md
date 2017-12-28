@@ -7,5 +7,5 @@ the concept of this project is to create a cmd that having a clickalbe function,
 
 screenshot
 ![](3.png)
-![](3.png)
-![](3.png)
+![](1.png)
+![](2.png)
